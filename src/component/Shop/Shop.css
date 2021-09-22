@@ -1,0 +1,10 @@
+.main{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.shop{
+    margin-left: 80px;
+}
+.shop-cart{
+    border-left: 1px solid lightgray;
+}
