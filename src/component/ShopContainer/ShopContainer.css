@@ -1,0 +1,19 @@
+.product-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+}
+.img-div img{
+    width: 350px;
+    margin-right: 10px;
+}
+.title h3{
+    color: blue;
+    font-weight: 500;
+}
+.cart-btn{
+    background-color: goldenrod;
+    padding: 10px 40px;
+    border: 1px solid lightgray;
+    border-radius: 7px;
+}
